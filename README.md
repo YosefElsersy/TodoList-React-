@@ -1,7 +1,3 @@
-Certainly! Below is a description you can use for your GitHub repository for the provided React To-Do List application:
-
----
-
 # React To-Do List
 
 A simple To-Do List application built with React.js. This application allows users to add, mark as complete, and delete items from their to-do list.
