@@ -27,4 +27,3 @@ To run this application locally, follow these steps:
 
 ---
 
-Feel free to customize the description based on your preferences or add any additional information you think is relevant.
